@@ -84,3 +84,7 @@ required.
 
 Every project folder contains a `report.pdf` with the problem description,
 implementation details, complexity analysis and benchmark results.
+
+## Authors
+
+- Miguel Castela
